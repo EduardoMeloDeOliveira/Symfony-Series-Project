@@ -14,11 +14,11 @@
 <code>docker-compose up -d</code>
 </pre>
 
-<p>Logo apóis bata dar um <code>composer install </code></p>
+<p>logo apóis basta dar um <code>composer install </code></p>
 
 <p>finalizando a instalação settei um script pra inciar o servidor basta rodar <code> composer dev </code></p>
 
-<p>e agor sim tudo prontinho</p>
+<p>e agora sim tudo prontinho</p>
 
 <h2>Notificações por e-mail 📧</h2>
 
